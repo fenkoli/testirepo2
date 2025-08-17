@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 muutos2
+=======
+muutos
+muutos lokaalista
+>>>>>>> Stashed changes
 
