@@ -3,5 +3,8 @@ muutos2
 =======
 muutos
 muutos lokaalista
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
